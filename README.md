@@ -1,8 +1,8 @@
 # Medium-Popular-Articles-Analysis
-This analysis is done on 2500+ Medium popular blogs to find out the important patterns among them.
+This analysis is done on 2500+ [Medium popular blogs](https://medium.com/topic/popular) to find out the important patterns among them.
 
 ## About Data
-I have scraped 2701 unique popular articles from Medium.
+I have scraped 2701 unique popular articles from Medium.com.
 
 For each article we have Title, Date, Author, Publication, Read time, Claps and Tags.
 
