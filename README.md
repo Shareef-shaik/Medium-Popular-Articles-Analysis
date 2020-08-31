@@ -14,7 +14,7 @@ For each article we have Title, Date, Author, Publication, Read time, Claps, Tag
 All dependencies can be installed using [pip](https://pip.pypa.io/en/stable/)
 
 ## Analysis Overview:
-I wrote a [blog](https://medium.com/@shareefshaik1375/) covering all the findings of this analysis in detail,I recommend you to refer it for more clear understanding.
+I wrote a [blog](https://medium.com/@shareefshaik1375/) covering all the findings of this analysis in detail, I recommend you to refer it for more clear understanding.
 
 ![Screenshot](images/theme.png)
 
