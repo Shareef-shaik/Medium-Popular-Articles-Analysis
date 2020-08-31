@@ -1,6 +1,20 @@
 # Medium-Popular-Articles-Analysis
-We will try to extract important insights from 2500+ Popular Medium Articles
+This analysis is done on 2500+ Medium popular blogs to find out the important patterns among them.
 
-# About Data
+## About Data
 I have scraped 2701 unique popular articles from Medium.
 For each article we have Title, Date, Author, Publication, Read time, Claps, Tags.
+
+## Dependencies
+* Python
+* matplotlib
+* pandas
+* selenium
+
+All dependencies can be installed using [pip](https://pip.pypa.io/en/stable/)
+
+## Analysis Overview:
+I wrote a [blog](https://medium.com/@shareefshaik1375/) covering all the findings of this analysis in detail,I recommend you to refer it for more clear understanding.
+
+![Screenshot](images/theme.png)
+
